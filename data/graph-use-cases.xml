@@ -1,0 +1,174 @@
+<map version="1.0.1">
+    <!-- To view this file, download free mind mapping software FreeMind from http://freemind.sourceforge.net -->
+    <node COLOR="#000000" CREATED="1552566652694" ID="ID_757050711" MODIFIED="1552612152322"
+        TEXT="Graph Use Cases">
+        <edge COLOR="#990000" WIDTH="1"/>
+        <font NAME="SansSerif" SIZE="20"/>
+        <hook NAME="accessories/plugins/AutomaticLayout.properties"/>
+        <node COLOR="#0033ff" CREATED="1552566702640" ID="ID_1193321104" MODIFIED="1552612113059"
+            POSITION="right" TEXT="Performance">
+            <edge COLOR="#111111" STYLE="sharp_bezier" WIDTH="8"/>
+            <font NAME="SansSerif" SIZE="18"/>
+            <node COLOR="#00b439" CREATED="1552566928188" ID="ID_159969171" MODIFIED="1552612113061"
+                TEXT="Fast Relationship Traversal">
+                <edge COLOR="#111111" STYLE="bezier" WIDTH="thin"/>
+                <font NAME="SansSerif" SIZE="16"/>
+                <node COLOR="#990000" CREATED="1552567037271" ID="ID_180256978"
+                    MODIFIED="1552612113062" TEXT="Analytics">
+                    <edge COLOR="#111111" WIDTH="thin"/>
+                    <font NAME="SansSerif" SIZE="14"/>
+                </node>
+                <node COLOR="#990000" CREATED="1552567561097" ID="ID_1486432455"
+                    MODIFIED="1552612113063" TEXT="Reporting">
+                    <edge COLOR="#111111" WIDTH="thin"/>
+                    <font NAME="SansSerif" SIZE="14"/>
+                </node>
+                <node COLOR="#990000" CREATED="1552567718213" ID="ID_1001236030"
+                    MODIFIED="1552612113064" TEXT="KPIs">
+                    <edge COLOR="#111111" WIDTH="thin"/>
+                    <font NAME="SansSerif" SIZE="14"/>
+                </node>
+                <node COLOR="#990000" CREATED="1552567732724" ID="ID_753148746"
+                    MODIFIED="1552612113065" TEXT="Drill Down">
+                    <edge COLOR="#111111" WIDTH="thin"/>
+                    <font NAME="SansSerif" SIZE="14"/>
+                </node>
+                <node COLOR="#990000" CREATED="1552567565177" ID="ID_886571050"
+                    MODIFIED="1552612113066" TEXT="Trends">
+                    <edge COLOR="#111111" WIDTH="thin"/>
+                    <font NAME="SansSerif" SIZE="14"/>
+                </node>
+            </node>
+            <node COLOR="#00b439" CREATED="1552566943914" ID="ID_901246117" MODIFIED="1552612113068"
+                TEXT="Complex Queries">
+                <edge COLOR="#111111" STYLE="bezier" WIDTH="thin"/>
+                <font NAME="SansSerif" SIZE="16"/>
+                <node COLOR="#990000" CREATED="1552567052709" ID="ID_1599505820"
+                    MODIFIED="1552612113069" TEXT="Customer Similarity">
+                    <edge COLOR="#111111" WIDTH="thin"/>
+                    <font NAME="SansSerif" SIZE="14"/>
+                </node>
+                <node COLOR="#990000" CREATED="1552567063315" ID="ID_356314565"
+                    MODIFIED="1552612113070" TEXT="Customer Clustering">
+                    <edge COLOR="#111111" WIDTH="thin"/>
+                    <font NAME="SansSerif" SIZE="14"/>
+                </node>
+            </node>
+            <node COLOR="#00b439" CREATED="1552567010103" ID="ID_39227364" MODIFIED="1552612113072"
+                TEXT="Deep Link Analysis">
+                <edge COLOR="#111111" STYLE="bezier" WIDTH="thin"/>
+                <font NAME="SansSerif" SIZE="16"/>
+                <node COLOR="#990000" CREATED="1552567027104" ID="ID_108505958"
+                    MODIFIED="1552612113072" TEXT="Fraud Detection">
+                    <edge COLOR="#111111" WIDTH="thin"/>
+                    <font NAME="SansSerif" SIZE="14"/>
+                </node>
+                <node COLOR="#990000" CREATED="1552567076401" ID="ID_530867135"
+                    MODIFIED="1552612113073" TEXT="Anomoly Detection">
+                    <edge COLOR="#111111" WIDTH="thin"/>
+                    <font NAME="SansSerif" SIZE="14"/>
+                </node>
+            </node>
+        </node>
+        <node COLOR="#0033ff" CREATED="1552566744605" ID="ID_1835410149" MODIFIED="1552612113076"
+            POSITION="right" TEXT="Flexibility">
+            <edge COLOR="#111111" STYLE="sharp_bezier" WIDTH="8"/>
+            <font NAME="SansSerif" SIZE="18"/>
+            <node COLOR="#00b439" CREATED="1552566955955" ID="ID_1268525026"
+                MODIFIED="1552612113078" TEXT="Schema Agnostic">
+                <edge COLOR="#111111" STYLE="bezier" WIDTH="thin"/>
+                <font NAME="SansSerif" SIZE="16"/>
+                <node COLOR="#990000" CREATED="1552567134203" ID="ID_1543978999"
+                    MODIFIED="1552612113079" TEXT="No Fixed Data Model">
+                    <edge COLOR="#111111" WIDTH="thin"/>
+                    <font NAME="SansSerif" SIZE="14"/>
+                </node>
+                <node COLOR="#990000" CREATED="1552567409477" ID="ID_420970959"
+                    MODIFIED="1552612113080" TEXT="Ideal for Data Hubs">
+                    <edge COLOR="#111111" WIDTH="thin"/>
+                    <font NAME="SansSerif" SIZE="14"/>
+                </node>
+                <node COLOR="#990000" CREATED="1552567420976" ID="ID_1562229910"
+                    MODIFIED="1552612113081" TEXT="Integrate at Will">
+                    <edge COLOR="#111111" WIDTH="thin"/>
+                    <font NAME="SansSerif" SIZE="14"/>
+                </node>
+                <node COLOR="#990000" CREATED="1552567143798" ID="ID_1635915868"
+                    MODIFIED="1552612113082" TEXT="Ideal for NLP">
+                    <edge COLOR="#111111" WIDTH="thin"/>
+                    <font NAME="SansSerif" SIZE="14"/>
+                </node>
+                <node COLOR="#990000" CREATED="1552567480415" ID="ID_1884933022"
+                    MODIFIED="1552612113083" TEXT="Chatbot Enablement">
+                    <edge COLOR="#111111" WIDTH="thin"/>
+                    <font NAME="SansSerif" SIZE="14"/>
+                </node>
+            </node>
+            <node COLOR="#00b439" CREATED="1552566964627" ID="ID_1255953151"
+                MODIFIED="1552612113085" TEXT="Open World">
+                <edge COLOR="#111111" STYLE="bezier" WIDTH="thin"/>
+                <font NAME="SansSerif" SIZE="16"/>
+                <node COLOR="#990000" CREATED="1552567203948" ID="ID_715994651"
+                    MODIFIED="1552612113085" TEXT="Anyone Can Add New Facts">
+                    <edge COLOR="#111111" WIDTH="thin"/>
+                    <font NAME="SansSerif" SIZE="14"/>
+                </node>
+                <node COLOR="#990000" CREATED="1552567224370" ID="ID_1797989259"
+                    MODIFIED="1552612113086" TEXT="No Query Disruption">
+                    <edge COLOR="#111111" WIDTH="thin"/>
+                    <font NAME="SansSerif" SIZE="14"/>
+                </node>
+            </node>
+        </node>
+        <node COLOR="#0033ff" CREATED="1552566754569" ID="ID_1566351636" MODIFIED="1552612113089"
+            POSITION="right" TEXT="Rules">
+            <edge COLOR="#111111" STYLE="sharp_bezier" WIDTH="8"/>
+            <font NAME="SansSerif" SIZE="18"/>
+            <node COLOR="#00b439" CREATED="1552566981222" ID="ID_1445395337"
+                MODIFIED="1552612113091" TEXT="Recomendation">
+                <edge COLOR="#111111" STYLE="bezier" WIDTH="thin"/>
+                <font NAME="SansSerif" SIZE="16"/>
+                <node COLOR="#990000" CREATED="1552567268053" ID="ID_51704997"
+                    MODIFIED="1552612113092" TEXT="Leverage Similar Customer Purchases">
+                    <edge COLOR="#111111" WIDTH="thin"/>
+                    <font NAME="SansSerif" SIZE="14"/>
+                </node>
+                <node COLOR="#990000" CREATED="1552567309886" ID="ID_1487818653"
+                    MODIFIED="1552612113093" TEXT="Add Machine Learning for Similar Products">
+                    <edge COLOR="#111111" WIDTH="thin"/>
+                    <font NAME="SansSerif" SIZE="14"/>
+                </node>
+            </node>
+            <node COLOR="#00b439" CREATED="1552566990125" ID="ID_1875854717"
+                MODIFIED="1552612113095" TEXT="Next Best Actiion">
+                <edge COLOR="#111111" STYLE="bezier" WIDTH="thin"/>
+                <font NAME="SansSerif" SIZE="16"/>
+                <node COLOR="#990000" CREATED="1552567366736" ID="ID_1889220469"
+                    MODIFIED="1552612113095" TEXT="Guide Customer Journey">
+                    <edge COLOR="#111111" WIDTH="thin"/>
+                    <font NAME="SansSerif" SIZE="14"/>
+                </node>
+                <node COLOR="#990000" CREATED="1552567382473" ID="ID_986331666"
+                    MODIFIED="1552612113096" TEXT="Predict Incomming Call Issues">
+                    <edge COLOR="#111111" WIDTH="thin"/>
+                    <font NAME="SansSerif" SIZE="14"/>
+                </node>
+            </node>
+            <node COLOR="#00b439" CREATED="1552611580400" ID="ID_901717741" MODIFIED="1552612113098"
+                TEXT="Comparison Rules">
+                <edge COLOR="#111111" STYLE="bezier" WIDTH="thin"/>
+                <font NAME="SansSerif" SIZE="16"/>
+                <node COLOR="#990000" CREATED="1552611586406" ID="ID_842531802"
+                    MODIFIED="1552612113099" TEXT="Change Update">
+                    <edge COLOR="#111111" WIDTH="thin"/>
+                    <font NAME="SansSerif" SIZE="14"/>
+                </node>
+                <node COLOR="#990000" CREATED="1552611600579" ID="ID_452417637"
+                    MODIFIED="1552612113100" TEXT="Customer Merge (MDM)">
+                    <edge COLOR="#111111" WIDTH="thin"/>
+                    <font NAME="SansSerif" SIZE="14"/>
+                </node>
+            </node>
+        </node>
+    </node>
+</map>
